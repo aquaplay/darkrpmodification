@@ -124,7 +124,7 @@ TEAM_ADMIN = DarkRP.createJob("ADMIN", {
 	})
 
 
-	TEAM_BLACKMARKET = DarkRP.createJob("Mercado Negro", {
+	TEAM_BLACKMARKET = DarkRP.createJob("Mercado Negros", {
     color = Color(255, 0, 196, 255),
     model = {"models/Eli.mdl"},
     description = [[Vendedor do mercado negro]]],
